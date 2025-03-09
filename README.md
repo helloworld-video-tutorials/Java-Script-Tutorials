@@ -4,11 +4,17 @@ Welcome to the JavaScript Tutorial Exercises repository! 💻 This repository co
 
 📌 What’s Inside?
 ✅ JavaScript Basics (Variables, Data Types, Operators)
+
 ✅ Functions, Loops & Conditional Statements
+
 ✅ DOM Manipulation & Events
+
 ✅ ES6+ Features (Arrow Functions, Let/Const, Promises)
+
 ✅ Async/Await & API Handling
+
 ✅ Object-Oriented Programming in JavaScript
+
 ✅ Real-world Coding Challenges
 
 🔗 Watch the Tutorials on YouTube: [Your YouTube Channel Link]
