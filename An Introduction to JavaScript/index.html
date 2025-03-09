@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Activities</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        #box { width: 100px; height: 100px; background-color: blue; margin: 20px auto; transition: transform 0.5s; }
+    </style>
+</head>
+<body>
+    <h1>JavaScript Activities</h1>
+    
+    <!-- Manipulate HTML & CSS -->
+    <h2 id="demo">Original Text</h2>
+    <button onclick="changeText()">Change Text</button>
+    
+    <!-- Respond to User Events -->
+    <h2>Click the Button</h2>
+    <button id="btn">Click Me</button>
+    
+    <!-- Validate Forms -->
+    <h2>Form Validation</h2>
+    <form onsubmit="return validateForm()">
+        <input type="text" id="name" placeholder="Enter your name">
+        <button type="submit">Submit</button>
+    </form>
+    
+    <!-- Create Animations -->
+    <h2>Move the Box</h2>
+    <div id="box"></div>
+    <button onclick="moveBox()">Animate</button>
+    
+    <script src="./js/app.js"></script>
+</body>
+</html>
